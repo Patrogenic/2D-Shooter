@@ -1,8 +1,8 @@
 # 2D-Shooter
 ## Run Project
 To run the project (assuming you have java installed):  
-1: Download 'dist_zipped.zip'
-2: Unzip the file and run '2D Shooter.jar' 
+1: Download 'dist_zipped.zip'  
+2: Unzip the file and run '2D Shooter.jar'  
 
 ## Controls
 WASD keys to move  
