@@ -15,7 +15,7 @@ Esc to pause
 1: You can only hold one gun.  
 2: Ammo is infinite  
 3: You stand on a pad to purchase an item. 
-4: Some perks have more than one level
+4: Some perks have more than one level  
 5: Look for secret passages to progress.  
 6: There is no end to the game.  
 7: When you die, your kills and time spent alive will be reported.  
